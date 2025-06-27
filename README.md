@@ -13,7 +13,7 @@
 - 使用 Google 字體 `Noto Sans TC` + DS Digital 風格字體
 - 基本響應式排版，可擴充更多時間點
 
-## 🚀 如何使用
+## 🚀 如何使用，但你很有可能用不到
 
 1. 確保你有安裝 Git 與 VS Code
 2. Clone 此專案：
@@ -38,5 +38,4 @@
 ---
 
 Made with 🧠 by
-[ChatGPT][https://chatgpt.com/]
-[kenjiinthehouse](https://github.com/kenjiinthehouse)
+[ChatGPT][https://chatgpt.com/]、[kenjiinthehouse](https://github.com/kenjiinthehouse)
