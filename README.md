@@ -38,4 +38,4 @@
 ---
 
 Made with 🧠 by
-[ChatGPT][https://chatgpt.com/]、[kenjiinthehouse](https://github.com/kenjiinthehouse)
+[ChatGPT](https://chatgpt.com/)、[kenjiinthehouse](https://github.com/kenjiinthehouse)
