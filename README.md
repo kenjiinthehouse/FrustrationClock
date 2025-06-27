@@ -33,7 +33,10 @@
 
 - 字型 DS-Digital 為 [個人用途免費](https://www.cdnfonts.com/ds-digital.font)，**商業用途請自行向原作者取得授權**
 - 本專案僅供展示與教育用途，如需修改請自行 Fork
+- 本專案由 ChatGPT 產生並微調
 
 ---
 
-Made with 🧠 by [kenjiinthehouse](https://github.com/kenjiinthehouse)
+Made with 🧠 by
+[ChatGPT][https://chatgpt.com/]
+[kenjiinthehouse](https://github.com/kenjiinthehouse)
